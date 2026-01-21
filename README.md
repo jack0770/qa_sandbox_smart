@@ -22,3 +22,5 @@ anchor build
 
 # Запустить тесты
 anchor test
+
+![Tests](https://github.com/jack0770/qa_sandbox_smart/actions/workflows/test.yml/badge.svg)
