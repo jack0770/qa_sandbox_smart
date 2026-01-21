@@ -1,0 +1,15 @@
+# Anchor
+.anchor
+target/
+test-ledger/
+
+# Node
+node_modules/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
