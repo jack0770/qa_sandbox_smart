@@ -1,5 +1,3 @@
-![Tests](https://github.com/jack0770/qa_sandbox_smart/actions/workflows/test.yml/badge.svg)
-
 # QA Sandbox Smart Contract
 
 Solana smart contract на Anchor Framework - защищённый счётчик с тестами.
